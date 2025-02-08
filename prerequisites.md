@@ -22,7 +22,7 @@ To learn more about the AWS Pricing Model so you understand what the cost will b
 
 The AWS CLI is a way for you to interact with all AWS services at a programmatic level using the terminal.
 
-To set this up, follow the directions [here](https://docs.aws.amazon.com/polly/latest/dg/setup-aws-cli.html)
+To set this up, follow the directions [here](https://docs.aws.amazon.com/polly/latest/dg/setup-cli.html)
 
 ## Installations
 You will need to download some software and services for this tutorial.
